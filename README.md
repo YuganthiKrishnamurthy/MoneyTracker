@@ -1,5 +1,3 @@
-# CSCI_5708_Group_5
-
 Mobile Computing Project => Money Tracker
 
 Money Tracker is an application that can help users to keep track of their expenses and income.
@@ -9,16 +7,6 @@ User can add any money related transaction with the additional features like:
 3. Attaching an Image of the bill or paycheck (Using camera by clicking the camera icon on home screen)
 
 The application also provides a feature to show graphical view of the records.
-
-Group Members:
-
-1. Deep Muni<br>
-2. Sarabjeet Singh<br>
-3. Simrabanu Diwan<br>
-4. Yuganthi Krishnamurthy<br>
-5. Krutin Trivedi<br>
-
-
 
 References:
 
